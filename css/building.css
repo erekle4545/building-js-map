@@ -1,0 +1,355 @@
+@font-face {
+    font-family: FiraGO;
+    font-style: normal;
+    font-display: swap;
+    font-weight: 100;
+    src: url("../fonts/FiraGO-Medium.woff2") format("woff2"), url("../fonts/firago-all-100-normal.woff") format("woff")
+}
+
+@font-face {
+    font-family: FiraGO;
+    font-style: normal;
+    font-display: swap;
+    font-weight: 200;
+    src: url("../fonts/firago-all-200-normal.woff2") format("woff2"), url("../fonts/firago-all-200-normal.woff") format("woff")
+}
+
+@font-face {
+    font-family: FiraGO;
+    font-style: normal;
+    font-display: swap;
+    font-weight: 300;
+    src: url("../fonts/firago-all-300-normal.woff2") format("woff2"), url("../fonts/firago-all-300-normal.woff") format("woff")
+}
+
+@font-face {
+    font-family: FiraGO;
+    font-style: normal;
+    font-display: swap;
+    font-weight: 400;
+    src: url("../fonts/firago-all-400-normal.woff2") format("woff2"), url("../fonts/firago-all-400-normal.woff") format("woff")
+}
+
+@font-face {
+    font-family: FiraGO;
+    font-style: normal;
+    font-display: swap;
+    font-weight: 500;
+    src: url("../fonts/firago-all-500-normal.woff2") format("woff2"), url("../fonts/firago-all-500-normal.woff") format("woff")
+}
+
+@font-face {
+    font-family: FiraGO;
+    font-style: normal;
+    font-display: swap;
+    font-weight: 600;
+    src: url("../fonts/firago-all-600-normal.woff2") format("woff2"), url("../fonts/firago-all-600-normal.woff") format("woff")
+}
+
+@font-face {
+    font-family: FiraGO;
+    font-style: normal;
+    font-display: swap;
+    font-weight: 700;
+    src: url("../fonts/firago-all-700-normal.woff2") format("woff2"), url("../fonts/firago-all-700-normal.woff") format("woff")
+}
+
+@font-face {
+    font-family: FiraGO;
+    font-style: normal;
+    font-display: swap;
+    font-weight: 800;
+    src: url("../fonts/firago-all-800-normal.woff2") format("woff2"), url("../fonts/firago-all-800-normal.woff") format("woff")
+}
+
+@font-face {
+    font-family: FiraGO;
+    font-style: normal;
+    font-display: swap;
+    font-weight: 900;
+    src: url("../fonts/firago-all-900-normal.woff2") format("woff2"), url("../fonts/firago-all-900-normal.woff") format("woff")
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-display: swap;
+    font-weight: 700;
+    src: url("../fonts/montserrat/Montserrat-bold.otf") format("woff"), url("../fonts/montserrat/Montserrat-bold.otf") format("woff")
+}
+
+body {
+    font-family: FiraGO;
+}
+
+.st0,
+.st1,
+.st2 {
+    fill: transparent;
+    transition: all .5s;
+}
+
+.st0:hover,
+.st1:hover,
+.st2:hover,
+.st0:active,
+.st1:active,
+.st2:active,
+.st0:link,
+.st1:visited,
+.st2:visited {
+    opacity: 0.6;
+    fill: #2BDCFF;
+}
+
+.slick-carousel {
+    margin: 0 auto;
+    max-width: 450px;
+}
+
+.slick-slide {
+    width: 450px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    max-width: 1700px;
+    margin: auto;
+}
+
+.main-container,
+.rooms-container {
+    margin: 0 50px;
+}
+
+.left-side {
+    /* position: relative; */
+    width: 742px;
+}
+
+.left-side svg {
+    position: relative;
+    z-index: 2;
+}
+
+/* .left-side .dots-top,
+.left-side .dots-bottom {
+    position: absolute;
+}
+
+.left-side .dots-bottom {
+    top: 70%;
+    left: 2%;
+} */
+
+.left-side .dots-top {
+    top: -10%;
+    left: 69%;
+}
+
+.right-side {
+    width: 750px;
+}
+
+.line {
+    border-left: 1px solid #DFDFDF;
+    margin: 0 70px 0 70px;
+    height: 450px;
+}
+
+.dots-bg img {
+    position: absolute;
+    bottom: -9%;
+    left: -6%;
+}
+
+#myImage {
+    transition: all .5s;
+    width: 100%;
+    border-right: 1px solid #DFDFDF;
+    padding-right: 80px;
+}
+
+svg {
+    width: 100%;
+}
+
+svg .active,
+.active-room {
+    opacity: 0.6;
+    fill: #2BDCFF;
+}
+
+.rooms-container {
+    display: flex;
+}
+
+.room-img {
+    max-width: 490px;
+    margin: 0 80px 0 50px;
+}
+
+.room-img img {
+    width: 100%;
+}
+
+.room-content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.room-content-building svg {
+    width: 190px;
+}
+
+.room-content-room {
+    /* max-width: 450px; */
+    margin-top: 35px;
+}
+
+.room-content-room svg {
+    width: 370px;
+}
+
+.room-desc p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    text-transform: lowercase;
+    color: #858585;
+    width: 280px;
+}
+
+.room-desc p span {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    text-transform: lowercase;
+    color: #6BC8CA;
+}
+
+.room-desc p small {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    text-transform: lowercase;
+    color: #6BC8CA;
+    margin-left: 5px;
+}
+
+.rooms-left-side {
+    display: flex;
+}
+
+.view-all {
+    margin-top: 50px;
+}
+
+.view-all a {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    text-transform: lowercase;
+    color: #7B7B7B;
+    text-decoration: none;
+    background: #F0F0F0;
+    border-radius: 8px;
+    padding: 13px 40px;
+    transition: all .5s;
+}
+
+.view-all a:hover {
+    background-color: #e2e2e2;
+}
+
+
+@media (max-width: 991px) {
+    .line {
+        display: none;
+    }
+
+    .main-container {
+        flex-direction: column;
+        height: auto;
+        margin: 30px;
+    }
+
+    .main-container .left-side {
+        order: 1;
+    }
+
+    .main-container .right-side {
+        margin-bottom: 30px;
+    }
+
+    .main-container .left-side,
+    .main-container .right-side {
+        max-width: 700px;
+        width: auto;
+    }
+}
+
+@media (max-width: 1200px) {
+    .room-img {
+        margin: 0px 40px 0px 30px;
+    }
+
+    .rooms-container {
+        flex-direction: column;
+    }
+
+    .container {
+        height: auto;
+    }
+
+    .rooms-left-side {
+        order: 1;
+        margin-top: 60px;
+    }
+
+    .room-content-building svg {
+        width: 300px;
+    }
+
+    .room-content-room svg {
+        width: 400px;
+    }
+
+}
+
+@media (max-width: 767px) {
+    .rooms-left-side {
+        flex-direction: column;
+    }
+
+    .room-img {
+        margin: 40px 0 0 0;
+    }
+}
+
+@media (max-width: 575px) {
+    .room-content-room svg {
+        width: 300px;
+    }
+
+    .room-content-building svg {
+        width: 190px;
+    }
+
+    .slick-slide,
+    .slick-carousel {
+        width: 340px;
+    }
+}

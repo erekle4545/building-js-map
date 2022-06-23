@@ -1,0 +1,808 @@
+{
+  "floor_1":[
+        {
+              "apartment": 1,
+              "floor": 1,
+              "label": {
+                  "roomNumber": "ბინის ნომერი",
+                  "commonArea": "საერთო ფართი",
+                  "scalePoint": "სველი წერტილი",
+                  "balcony": "აივანი",
+                  "bedRoom": "საძინებლების რაოდენობა",
+                  "price": "კვ.მ. ფასი"
+              },
+              "commonArea": "32.2",
+              "scalePoint": 1,
+              "balcony": "8",
+              "bedRoom": 2,
+              "price": "2.200",
+              "img": [
+                  {
+                    "path": "https://aliya.ge/storage/media/image/2021-11-17/5065c6c0-479d-11ec-93ce-f980cd08f471.png"
+                  },
+                  {
+                    "path": "https://images.pexels.com/photos/1571458/pexels-photo-1571458.jpeg"
+                  }
+              ]
+        },
+        {
+              "apartment": 2,
+              "floor": 1,
+              "label": {
+                "roomNumber": "ბინის ნომერი",
+                "commonArea": "საერთო ფართი",
+                "scalePoint": "სველი წერტილი",
+                "balcony": "აივანი",
+                "bedRoom": "საძინებლების რაოდენობა",
+                "price": "კვ.მ. ფასი"
+              },
+              "commonArea": "30.2",
+              "scalePoint":2,
+              "balcony": "8 კვ.მ",
+              "bedRoom": 2,
+              "price": "2.200 ლარი",
+              "img": [
+                {
+
+                  "path": "https://images.pexels.com/photos/1571458/pexels-photo-1571458.jpeg"
+
+                }
+              ]
+        },
+        {
+          "apartment": 3,
+          "floor": 1,
+          "label": {
+            "roomNumber": "ბინის ნომერი",
+            "commonArea": "საერთო ფართი",
+            "scalePoint": "სველი წერტილი",
+            "balcony": "აივანი",
+            "bedRoom": "საძინებლების რაოდენობა",
+            "price": "კვ.მ. ფასი"
+          },
+          "commonArea": "30.2",
+          "scalePoint":2,
+          "balcony": "8 კვ.მ",
+          "bedRoom": 2,
+          "price": "2.200 ლარი",
+          "img": [
+            {
+              "path": "dasd"
+            }
+          ]
+        },
+        {
+          "apartment": 3,
+          "floor": 1,
+          "label": {
+            "roomNumber": "ბინის ნომერი",
+            "commonArea": "საერთო ფართი",
+            "scalePoint": "სველი წერტილი",
+            "balcony": "აივანი",
+            "bedRoom": "საძინებლების რაოდენობა",
+            "price": "კვ.მ. ფასი"
+          },
+          "commonArea": "30.2",
+          "scalePoint":2,
+          "balcony": "8 კვ.მ",
+          "bedRoom": 2,
+          "price": "2.200 ლარი",
+          "img": [
+            {
+              "path": "dasd"
+            }
+          ]
+        },
+        {
+          "apartment": 3,
+          "floor": 1,
+          "label": {
+            "roomNumber": "ბინის ნომერი",
+            "commonArea": "საერთო ფართი",
+            "scalePoint": "სველი წერტილი",
+            "balcony": "აივანი",
+            "bedRoom": "საძინებლების რაოდენობა",
+            "price": "კვ.მ. ფასი"
+          },
+          "commonArea": "30.2",
+          "scalePoint":2,
+          "balcony": "8 კვ.მ",
+          "bedRoom": 2,
+          "price": "2.200 ლარი",
+          "img": [
+            {
+              "path": "dasd"
+            }
+          ]
+        },
+        {
+          "apartment": 3,
+          "floor": 1,
+          "label": {
+            "roomNumber": "ბინის ნომერი",
+            "commonArea": "საერთო ფართი",
+            "scalePoint": "სველი წერტილი",
+            "balcony": "აივანი",
+            "bedRoom": "საძინებლების რაოდენობა",
+            "price": "კვ.მ. ფასი"
+          },
+          "commonArea": "30.2",
+          "scalePoint":2,
+          "balcony": "8 კვ.მ",
+          "bedRoom": 2,
+          "price": "2.200 ლარი",
+          "img": [
+            {
+              "path": "dasd"
+            }
+          ]
+        },
+        {
+          "apartment": 4,
+          "floor": 1,
+          "label": {
+            "roomNumber": "ბინის ნომერი",
+            "commonArea": "საერთო ფართი",
+            "scalePoint": "სველი წერტილი",
+            "balcony": "აივანი",
+            "bedRoom": "საძინებლების რაოდენობა",
+            "price": "კვ.მ. ფასი"
+          },
+          "commonArea": "30.2",
+          "scalePoint":2,
+          "balcony": "8 კვ.მ",
+          "bedRoom": 2,
+          "price": "2.200 ლარი",
+          "img": [
+            {
+              "path": "dasd"
+            }
+          ]
+        },
+        {
+          "apartment": 5,
+          "floor": 1,
+          "label": {
+            "roomNumber": "ბინის ნომერი",
+            "commonArea": "საერთო ფართი",
+            "scalePoint": "სველი წერტილი",
+            "balcony": "აივანი",
+            "bedRoom": "საძინებლების რაოდენობა",
+            "price": "კვ.მ. ფასი"
+          },
+          "commonArea": "30.2",
+          "scalePoint":2,
+          "balcony": "8 კვ.მ",
+          "bedRoom": 2,
+          "price": "2.200 ლარი",
+          "img": [
+            {
+              "path": "dasd"
+            }
+          ]
+        },
+        {
+          "apartment": 6,
+          "floor": 1,
+          "label": {
+            "roomNumber": "ბინის ნომერი",
+            "commonArea": "საერთო ფართი",
+            "scalePoint": "სველი წერტილი",
+            "balcony": "აივანი",
+            "bedRoom": "საძინებლების რაოდენობა",
+            "price": "კვ.მ. ფასი"
+          },
+          "commonArea": "30.2",
+          "scalePoint":2,
+          "balcony": "8 კვ.მ",
+          "bedRoom": 2,
+          "price": "2.200 ლარი",
+          "img": [
+            {
+              "path": "dasd"
+            }
+          ]
+        },
+        {
+          "apartment": 7,
+          "floor": 1,
+          "label": {
+            "roomNumber": "ბინის ნომერი",
+            "commonArea": "საერთო ფართი",
+            "scalePoint": "სველი წერტილი",
+            "balcony": "აივანი",
+            "bedRoom": "საძინებლების რაოდენობა",
+            "price": "კვ.მ. ფასი"
+          },
+          "commonArea": "30.2",
+          "scalePoint":2,
+          "balcony": "8 კვ.მ",
+          "bedRoom": 2,
+          "price": "2.200 ლარი",
+          "img": [
+            {
+              "path": "dasd"
+            }
+          ]
+        },
+        {
+          "apartment": 8,
+          "floor": 1,
+          "label": {
+            "roomNumber": "ბინის ნომერი",
+            "commonArea": "საერთო ფართი",
+            "scalePoint": "სველი წერტილი",
+            "balcony": "აივანი",
+            "bedRoom": "საძინებლების რაოდენობა",
+            "price": "კვ.მ. ფასი"
+          },
+          "commonArea": "30.2",
+          "scalePoint":2,
+          "balcony": "8 კვ.მ",
+          "bedRoom": 2,
+          "price": "2.200 ლარი",
+          "img": [
+            {
+              "path": "dasd"
+            }
+          ]
+        },
+        {
+          "apartment": 9,
+          "floor": 1,
+          "label": {
+            "roomNumber": "ბინის ნომერი",
+            "commonArea": "საერთო ფართი",
+            "scalePoint": "სველი წერტილი",
+            "balcony": "აივანი",
+            "bedRoom": "საძინებლების რაოდენობა",
+            "price": "კვ.მ. ფასი"
+          },
+          "commonArea": "30.2",
+          "scalePoint":2,
+          "balcony": "8 კვ.მ",
+          "bedRoom": 2,
+          "price": "2.200 ლარი",
+          "img": [
+            {
+              "path": "dasd"
+            }
+          ]
+        }
+
+  ],
+
+  "floor_2":[
+        {
+          "apartment": 1,
+          "floor": 2,
+          "label": {
+            "roomNumber": "ბინის ნომერი",
+            "commonArea": "საერთო ფართი",
+            "scalePoint": "სველი წერტილი",
+            "balcony": "აივანი",
+            "bedRoom": "საძინებლების რაოდენობა",
+            "price": "კვ.მ. ფასი"
+          },
+          "commonArea": "13.2",
+          "scalePoint": 1,
+          "balcony": "8",
+          "bedRoom": 2,
+          "price": "2.200",
+          "img": [
+            {
+              "path": "dasd"
+            }
+          ]
+        },
+        {
+          "apartment": 2,
+          "floor": 2,
+          "label": {
+            "roomNumber": "ბინის ნომერი",
+            "commonArea": "საერთო ფართი",
+            "scalePoint": "სველი წერტილი",
+            "balcony": "აივანი",
+            "bedRoom": "საძინებლების რაოდენობა",
+            "price": "კვ.მ. ფასი"
+          },
+          "commonArea": "15.2",
+          "scalePoint":2,
+          "balcony": "8 კვ.მ",
+          "bedRoom": 2,
+          "price": "2.200 ლარი",
+          "img": [
+            {
+              "path": "dasd"
+            }
+          ]
+        },
+        {
+          "apartment": 3,
+          "floor": 2,
+          "label": {
+            "roomNumber": "ბინის ნომერი",
+            "commonArea": "საერთო ფართი",
+            "scalePoint": "სველი წერტილი",
+            "balcony": "აივანი",
+            "bedRoom": "საძინებლების რაოდენობა",
+            "price": "კვ.მ. ფასი"
+          },
+          "commonArea": "22.2",
+          "scalePoint":2,
+          "balcony": "8 კვ.მ",
+          "bedRoom": 2,
+          "price": "2.200 ლარი",
+          "img": [
+            {
+              "path": "dasd"
+            }
+          ]
+        },
+        {
+          "apartment": 3,
+          "floor": 2,
+          "label": {
+            "roomNumber": "ბინის ნომერი",
+            "commonArea": "საერთო ფართი",
+            "scalePoint": "სველი წერტილი",
+            "balcony": "აივანი",
+            "bedRoom": "საძინებლების რაოდენობა",
+            "price": "კვ.მ. ფასი"
+          },
+          "commonArea": "11.2",
+          "scalePoint":2,
+          "balcony": "8 კვ.მ",
+          "bedRoom": 2,
+          "price": "2.200 ლარი",
+          "img": [
+            {
+              "path": "dasd"
+            }
+          ]
+        },
+        {
+          "apartment": 3,
+          "floor": 2,
+          "label": {
+            "roomNumber": "ბინის ნომერი",
+            "commonArea": "საერთო ფართი",
+            "scalePoint": "სველი წერტილი",
+            "balcony": "აივანი",
+            "bedRoom": "საძინებლების რაოდენობა",
+            "price": "კვ.მ. ფასი"
+          },
+          "commonArea": "45.2",
+          "scalePoint":2,
+          "balcony": "8 კვ.მ",
+          "bedRoom": 2,
+          "price": "2.200 ლარი",
+          "img": [
+            {
+              "path": "dasd"
+            }
+          ]
+        },
+        {
+          "apartment": 3,
+          "floor": 2,
+          "label": {
+            "roomNumber": "ბინის ნომერი",
+            "commonArea": "საერთო ფართი",
+            "scalePoint": "სველი წერტილი",
+            "balcony": "აივანი",
+            "bedRoom": "საძინებლების რაოდენობა",
+            "price": "კვ.მ. ფასი"
+          },
+          "commonArea": "15.2",
+          "scalePoint":2,
+          "balcony": "8 კვ.მ",
+          "bedRoom": 2,
+          "price": "2.200 ლარი",
+          "img": [
+            {
+              "path": "dasd"
+            }
+          ]
+        },
+        {
+          "apartment": 4,
+          "floor": 2,
+          "label": {
+            "roomNumber": "ბინის ნომერი",
+            "commonArea": "საერთო ფართი",
+            "scalePoint": "სველი წერტილი",
+            "balcony": "აივანი",
+            "bedRoom": "საძინებლების რაოდენობა",
+            "price": "კვ.მ. ფასი"
+          },
+          "commonArea": "48.2",
+          "scalePoint":2,
+          "balcony": "8 კვ.მ",
+          "bedRoom": 2,
+          "price": "2.200 ლარი",
+          "img": [
+            {
+              "path": "dasd"
+            }
+          ]
+        },
+        {
+          "apartment": 5,
+          "floor": 2,
+          "label": {
+            "roomNumber": "ბინის ნომერი",
+            "commonArea": "საერთო ფართი",
+            "scalePoint": "სველი წერტილი",
+            "balcony": "აივანი",
+            "bedRoom": "საძინებლების რაოდენობა",
+            "price": "კვ.მ. ფასი"
+          },
+          "commonArea": "65.2",
+          "scalePoint":2,
+          "balcony": "8 კვ.მ",
+          "bedRoom": 2,
+          "price": "2.200 ლარი",
+          "img": [
+            {
+              "path": "dasd"
+            }
+          ]
+        },
+        {
+          "apartment": 6,
+          "floor": 2,
+          "label": {
+            "roomNumber": "ბინის ნომერი",
+            "commonArea": "საერთო ფართი",
+            "scalePoint": "სველი წერტილი",
+            "balcony": "აივანი",
+            "bedRoom": "საძინებლების რაოდენობა",
+            "price": "კვ.მ. ფასი"
+          },
+          "commonArea": "79.2",
+          "scalePoint":2,
+          "balcony": "8 კვ.მ",
+          "bedRoom": 2,
+          "price": "2.200 ლარი",
+          "img": [
+            {
+              "path": "dasd"
+            }
+          ]
+        },
+        {
+          "apartment": 7,
+          "floor": 2,
+          "label": {
+            "roomNumber": "ბინის ნომერი",
+            "commonArea": "საერთო ფართი",
+            "scalePoint": "სველი წერტილი",
+            "balcony": "აივანი",
+            "bedRoom": "საძინებლების რაოდენობა",
+            "price": "კვ.მ. ფასი"
+          },
+          "commonArea": "17.2",
+          "scalePoint":2,
+          "balcony": "8 კვ.მ",
+          "bedRoom": 2,
+          "price": "2.200 ლარი",
+          "img": [
+            {
+              "path": "dasd"
+            }
+          ]
+        },
+        {
+          "apartment": 8,
+          "floor": 2,
+          "label": {
+            "roomNumber": "ბინის ნომერი",
+            "commonArea": "საერთო ფართი",
+            "scalePoint": "სველი წერტილი",
+            "balcony": "აივანი",
+            "bedRoom": "საძინებლების რაოდენობა",
+            "price": "კვ.მ. ფასი"
+          },
+          "commonArea": "95.2",
+          "scalePoint":2,
+          "balcony": "8 კვ.მ",
+          "bedRoom": 2,
+          "price": "2.200 ლარი",
+          "img": [
+            {
+              "path": "dasd"
+            }
+          ]
+        },
+        {
+          "apartment": 9,
+          "floor": 2,
+          "label": {
+            "roomNumber": "ბინის ნომერი",
+            "commonArea": "საერთო ფართი",
+            "scalePoint": "სველი წერტილი",
+            "balcony": "აივანი",
+            "bedRoom": "საძინებლების რაოდენობა",
+            "price": "კვ.მ. ფასი"
+          },
+          "commonArea": "48.2",
+          "scalePoint":2,
+          "balcony": "8 კვ.მ",
+          "bedRoom": 2,
+          "price": "2.200 ლარი",
+          "img": [
+            {
+              "path": "dasd"
+            }
+          ]
+        }
+  ],
+
+  "floor_3":[
+        {
+          "apartment": 1,
+          "floor": 2,
+          "label": {
+            "roomNumber": "ბინის ნომერი",
+            "commonArea": "საერთო ფართი",
+            "scalePoint": "სველი წერტილი",
+            "balcony": "აივანი",
+            "bedRoom": "საძინებლების რაოდენობა",
+            "price": "კვ.მ. ფასი"
+          },
+          "commonArea": "55.2",
+          "scalePoint": 1,
+          "balcony": "8",
+          "bedRoom": 2,
+          "price": "2.200",
+          "img": [
+            {
+              "path": "dasd"
+            }
+          ]
+        },
+        {
+          "apartment": 2,
+          "floor": 2,
+          "label": {
+            "roomNumber": "ბინის ნომერი",
+            "commonArea": "საერთო ფართი",
+            "scalePoint": "სველი წერტილი",
+            "balcony": "აივანი",
+            "bedRoom": "საძინებლების რაოდენობა",
+            "price": "კვ.მ. ფასი"
+          },
+          "commonArea": "56.2",
+          "scalePoint":2,
+          "balcony": "8 კვ.მ",
+          "bedRoom": 2,
+          "price": "2.200 ლარი",
+          "img": [
+            {
+              "path": "dasd"
+            }
+          ]
+        },
+        {
+          "apartment": 3,
+          "floor": 2,
+          "label": {
+            "roomNumber": "ბინის ნომერი",
+            "commonArea": "საერთო ფართი",
+            "scalePoint": "სველი წერტილი",
+            "balcony": "აივანი",
+            "bedRoom": "საძინებლების რაოდენობა",
+            "price": "კვ.მ. ფასი"
+          },
+          "commonArea": "23.2",
+          "scalePoint":2,
+          "balcony": "8 კვ.მ",
+          "bedRoom": 2,
+          "price": "2.200 ლარი",
+          "img": [
+            {
+              "path": "dasd"
+            }
+          ]
+        },
+        {
+          "apartment": 3,
+          "floor": 2,
+          "label": {
+            "roomNumber": "ბინის ნომერი",
+            "commonArea": "საერთო ფართი",
+            "scalePoint": "სველი წერტილი",
+            "balcony": "აივანი",
+            "bedRoom": "საძინებლების რაოდენობა",
+            "price": "კვ.მ. ფასი"
+          },
+          "commonArea": "15.2",
+          "scalePoint":2,
+          "balcony": "8 კვ.მ",
+          "bedRoom": 2,
+          "price": "2.200 ლარი",
+          "img": [
+            {
+              "path": "dasd"
+            }
+          ]
+        },
+        {
+          "apartment": 3,
+          "floor": 2,
+          "label": {
+            "roomNumber": "ბინის ნომერი",
+            "commonArea": "საერთო ფართი",
+            "scalePoint": "სველი წერტილი",
+            "balcony": "აივანი",
+            "bedRoom": "საძინებლების რაოდენობა",
+            "price": "კვ.მ. ფასი"
+          },
+          "commonArea": "14.2",
+          "scalePoint":2,
+          "balcony": "8 კვ.მ",
+          "bedRoom": 2,
+          "price": "2.200 ლარი",
+          "img": [
+            {
+              "path": "dasd"
+            }
+          ]
+        },
+        {
+          "apartment": 3,
+          "floor": 2,
+          "label": {
+            "roomNumber": "ბინის ნომერი",
+            "commonArea": "საერთო ფართი",
+            "scalePoint": "სველი წერტილი",
+            "balcony": "აივანი",
+            "bedRoom": "საძინებლების რაოდენობა",
+            "price": "კვ.მ. ფასი"
+          },
+          "commonArea": "30.2",
+          "scalePoint":2,
+          "balcony": "8 კვ.მ",
+          "bedRoom": 2,
+          "price": "2.200 ლარი",
+          "img": [
+            {
+              "path": "dasd"
+            }
+          ]
+        },
+        {
+          "apartment": 4,
+          "floor": 2,
+          "label": {
+            "roomNumber": "ბინის ნომერი",
+            "commonArea": "საერთო ფართი",
+            "scalePoint": "სველი წერტილი",
+            "balcony": "აივანი",
+            "bedRoom": "საძინებლების რაოდენობა",
+            "price": "კვ.მ. ფასი"
+          },
+          "commonArea": "30.2",
+          "scalePoint":2,
+          "balcony": "8 კვ.მ",
+          "bedRoom": 2,
+          "price": "2.200 ლარი",
+          "img": [
+            {
+              "path": "dasd"
+            }
+          ]
+        },
+        {
+          "apartment": 5,
+          "floor": 2,
+          "label": {
+            "roomNumber": "ბინის ნომერი",
+            "commonArea": "საერთო ფართი",
+            "scalePoint": "სველი წერტილი",
+            "balcony": "აივანი",
+            "bedRoom": "საძინებლების რაოდენობა",
+            "price": "კვ.მ. ფასი"
+          },
+          "commonArea": "30.2",
+          "scalePoint":2,
+          "balcony": "8 კვ.მ",
+          "bedRoom": 2,
+          "price": "2.200 ლარი",
+          "img": [
+            {
+              "path": "dasd"
+            }
+          ]
+        },
+        {
+          "apartment": 6,
+          "floor": 2,
+          "label": {
+            "roomNumber": "ბინის ნომერი",
+            "commonArea": "საერთო ფართი",
+            "scalePoint": "სველი წერტილი",
+            "balcony": "აივანი",
+            "bedRoom": "საძინებლების რაოდენობა",
+            "price": "კვ.მ. ფასი"
+          },
+          "commonArea": "30.2",
+          "scalePoint":2,
+          "balcony": "8 კვ.მ",
+          "bedRoom": 2,
+          "price": "2.200 ლარი",
+          "img": [
+            {
+              "path": "dasd"
+            }
+          ]
+        },
+        {
+          "apartment": 7,
+          "floor": 2,
+          "label": {
+            "roomNumber": "ბინის ნომერი",
+            "commonArea": "საერთო ფართი",
+            "scalePoint": "სველი წერტილი",
+            "balcony": "აივანი",
+            "bedRoom": "საძინებლების რაოდენობა",
+            "price": "კვ.მ. ფასი"
+          },
+          "commonArea": "30.2",
+          "scalePoint":2,
+          "balcony": "8 კვ.მ",
+          "bedRoom": 2,
+          "price": "2.200 ლარი",
+          "img": [
+            {
+              "path": "dasd"
+            }
+          ]
+        },
+        {
+          "apartment": 8,
+          "floor": 2,
+          "label": {
+            "roomNumber": "ბინის ნომერი",
+            "commonArea": "საერთო ფართი",
+            "scalePoint": "სველი წერტილი",
+            "balcony": "აივანი",
+            "bedRoom": "საძინებლების რაოდენობა",
+            "price": "კვ.მ. ფასი"
+          },
+          "commonArea": "30.2",
+          "scalePoint":2,
+          "balcony": "8 კვ.მ",
+          "bedRoom": 2,
+          "price": "2.200 ლარი",
+          "img": [
+            {
+              "path": "dasd"
+            }
+          ]
+        },
+        {
+          "apartment": 9,
+          "floor": 2,
+          "label": {
+            "roomNumber": "ბინის ნომერი",
+            "commonArea": "საერთო ფართი",
+            "scalePoint": "სველი წერტილი",
+            "balcony": "აივანი",
+            "bedRoom": "საძინებლების რაოდენობა",
+            "price": "კვ.მ. ფასი"
+          },
+          "commonArea": "30.2",
+          "scalePoint":2,
+          "balcony": "8 კვ.მ",
+          "bedRoom": 2,
+          "price": "2.200 ლარი",
+          "img": [
+            {
+              "path": "dasd"
+            }
+          ]
+        }
+  ]
+}
